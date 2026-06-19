@@ -1,0 +1,14 @@
+{
+    "username": "madhusanjay",
+    "password": "Madhusanjay@23",
+    "from_station": "MADURAI JN - MDU (KODAIKANAL)",
+    "to_station": "CHENNAI EGMORE - MS (CHENNAI)",
+    "date": "14/07/2026",
+    "travel_class": "SL",
+    "quota": "GN",
+    "target_train": "12694",
+    "payment_mode": "UPI",
+    "passengers": "Madhu Sanjay,Murugesan P",
+    "auto_booking": true,
+    "faster_mode": false
+}

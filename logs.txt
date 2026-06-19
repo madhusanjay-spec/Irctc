@@ -1,0 +1,90 @@
+2026-06-17 21:18:53,371 - INFO - Configuration saved.
+2026-06-17 21:18:55,173 - INFO - Configuration saved.
+2026-06-17 21:18:55,174 - INFO - Starting Booking Engine...
+2026-06-17 21:18:55,947 - INFO - Navigating to IRCTC...
+2026-06-17 21:19:09,458 - INFO - Already on login page or LOGIN button not found.
+2026-06-17 21:19:09,459 - INFO - Waiting for login dialog...
+2026-06-17 21:19:15,239 - ERROR - Fatal error in automation: Page.wait_for_selector: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("input[formcontrolname='userid']") to be visible
+
+2026-06-17 21:19:18,743 - INFO - Configuration saved.
+2026-06-17 21:19:18,744 - INFO - Starting Booking Engine...
+2026-06-17 21:19:19,206 - INFO - Navigating to IRCTC...
+2026-06-17 21:19:24,383 - ERROR - Fatal error in automation: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://www.irctc.co.in/nget/train-search", waiting until "load"
+
+2026-06-18 08:04:23,750 - INFO - Configuration saved.
+2026-06-18 08:04:23,784 - INFO - Starting Booking Engine...
+2026-06-18 08:04:24,842 - INFO - Navigating to IRCTC...
+2026-06-18 08:04:38,643 - INFO - Already on login page or LOGIN button not found.
+2026-06-18 08:04:38,649 - INFO - Waiting for login dialog...
+2026-06-18 08:04:39,748 - ERROR - Fatal error in automation: Page.wait_for_selector: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("input[formcontrolname='userid']") to be visible
+
+2026-06-18 08:04:58,468 - INFO - Configuration saved.
+2026-06-18 08:04:58,471 - INFO - Starting Booking Engine...
+2026-06-18 08:04:59,202 - INFO - Navigating to IRCTC...
+2026-06-18 08:05:13,286 - INFO - Already on login page or LOGIN button not found.
+2026-06-18 08:05:13,288 - INFO - Waiting for login dialog...
+2026-06-18 08:05:15,139 - INFO - Filling credentials...
+2026-06-18 08:05:15,281 - INFO - Waiting for user to solve CAPTCHA and login...
+2026-06-18 08:05:15,292 - INFO - Login modal disappeared. Verifying login success...
+2026-06-18 08:05:16,297 - INFO - Entering journey details...
+2026-06-18 08:05:21,859 - ERROR - Fatal error in automation: Page.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("p-autocomplete[id='origin'] li:has-text('MADURAI JN')")
+    - locator resolved to 2 elements. Proceeding with the first one: <li id="" role="option" class="ng-tns-c68-7 ui-autocomplete-list-item ui-corner-all ng-star-inserted">…</li>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <label class="search_btn" _ngcontent-pte-c63="">REGISTER</label> from <app-login role="dialog" _nghost-pte-c63="" _ngcontent-pte-c64="" class="ng-star-inserted">…</app-login> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <strong _ngcontent-pte-c63="">FORGOT ACCOUNT DETAILS?</strong> from <app-login role="dialog" _nghost-pte-c63="" _ngcontent-pte-c64="" class="ng-star-inserted">…</app-login> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="ng-tns-c25-14 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted">…</div> from <app-login role="dialog" _nghost-pte-c63="" _ngcontent-pte-c64="" class="ng-star-inserted">…</app-login> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 500ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <label class="search_btn" _ngcontent-pte-c63="">REGISTER</label> from <app-login role="dialog" _nghost-pte-c63="" _ngcontent-pte-c64="" class="ng-star-inserted">…</app-login> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <strong _ngcontent-pte-c63="">FORGOT ACCOUNT DETAILS?</strong> from <app-login role="dialog" _nghost-pte-c63="" _ngcontent-pte-c64="" class="ng-star-inserted">…</app-login> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="ng-tns-c25-14 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted">…</div> from <app-login role="dialog" _nghost-pte-c63="" _ngcontent-pte-c64="" class="ng-star-inserted">…</app-login> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="ng-tns-c25-14 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted">…</div> from <app-login role="dialog" _nghost-pte-c63="" _ngcontent-pte-c64="" class="ng-star-inserted">…</app-login> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+
