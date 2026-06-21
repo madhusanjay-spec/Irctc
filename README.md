@@ -474,6 +474,160 @@ Users are solely responsible for ensuring compliance with applicable website ter
 
 <div align="center">
 
+
+# 🚨 IMPORTANT LEGAL NOTICE & WARNING
+
+<div align="center">
+
+# ⚠️ ⚠️ ⚠️ WARNING ⚠️ ⚠️ ⚠️
+
+<img src="https://img.shields.io/badge/IMPORTANT-READ_BEFORE_USE-red?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/IRCTC-TERMS_OF_SERVICE-red?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/RISK-ACCOUNT_SUSPENSION-darkred?style=for-the-badge">
+
+</div>
+
+---
+
+> [!WARNING]
+> **This project is NOT affiliated with, endorsed by, authorized by, or associated with IRCTC (Indian Railway Catering and Tourism Corporation) in any way.**
+
+---
+
+## 🚫 Use At Your Own Risk
+
+This software is provided solely for:
+
+* Educational purposes
+* Research purposes
+* Browser automation learning
+* OCR experimentation
+* Software engineering demonstrations
+
+The authors do **NOT** encourage, promote, or endorse the use of this software to violate any website's Terms of Service, policies, regulations, or applicable laws.
+
+---
+
+## ⚠️ IRCTC Terms & Conditions
+
+IRCTC may prohibit or restrict activities such as:
+
+* Automated booking
+* Automated form submission
+* Automated login
+* Use of bots
+* Use of scripts
+* CAPTCHA bypass attempts
+* Unauthorized automation tools
+* High-frequency requests
+* Automated ticket purchasing
+
+Users should review the latest IRCTC Terms of Service and policies before using any software that interacts with IRCTC systems.
+
+---
+
+# 🔴 CAPTCHA WARNING
+
+<div align="center">
+
+## ⛔ CAPTCHA BYPASS MAY VIOLATE WEBSITE POLICIES ⛔
+
+</div>
+
+The CAPTCHA-related components included in this project are intended for:
+
+* OCR research
+* Image processing research
+* Educational demonstrations
+
+Using OCR systems or automation tools to circumvent, defeat, bypass, or interfere with CAPTCHA protections may violate the policies or terms of service of websites.
+
+---
+
+# 🚨 ACCOUNT SUSPENSION RISK
+
+> [!CAUTION]
+> Using automation tools on websites may result in actions taken by the website operator.
+
+Potential consequences may include:
+
+* Temporary account restrictions
+* Account suspension
+* Permanent account bans
+* Booking limitations
+* Additional verification requirements
+* IP-based restrictions
+* Security investigations
+
+The project authors cannot prevent or reverse any actions taken by website operators.
+
+---
+
+# 🛑 NO GUARANTEE OF SUCCESS
+
+This project does not guarantee:
+
+* Successful ticket booking
+* CAPTCHA recognition accuracy
+* Availability of trains
+* Faster booking speeds
+* Protection from account actions
+* Compliance with third-party policies
+
+Website behavior, layouts, security systems, and policies may change at any time.
+
+---
+
+# ⚖️ USER RESPONSIBILITY
+
+By using this software, you acknowledge that:
+
+✅ You are responsible for your own actions.
+
+✅ You are responsible for reviewing applicable website policies.
+
+✅ You accept any risks associated with automation.
+
+✅ You understand that website operators may restrict automated activity.
+
+✅ You assume full responsibility for how this software is used.
+
+---
+
+# ❌ LIABILITY DISCLAIMER
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+THE AUTHORS, CONTRIBUTORS, MAINTAINERS, AND DISTRIBUTORS SHALL NOT BE LIABLE FOR:
+
+* Account suspensions
+* Account bans
+* Ticket cancellations
+* Financial losses
+* Service interruptions
+* Data loss
+* Legal claims
+* Any direct or indirect damages arising from use of this software
+
+---
+
+<div align="center">
+
+# 🚨 USE RESPONSIBLY 🚨
+
+### ⚠️ ALWAYS RESPECT WEBSITE TERMS OF SERVICE ⚠️
+
+### ⚠️ ALWAYS REVIEW IRCTC POLICIES BEFORE USE ⚠️
+
+### ⚠️ AUTOMATION MAY RESULT IN ACCOUNT RESTRICTIONS ⚠️
+
+</div>
+
+---
+
+
 <img src="assets/footer-dark.png" width="100%">
 
 ### Built with Python • Flask • EasyOCR • Chrome Extensions
